@@ -9,12 +9,9 @@
 #import <TCC/TCC.h>
 #import <stdint.h>
 
-#define sign_extend_64(val, width)  (((int64_t)(val) << (64 - (width)) >> (64 - (width))))
-
-__attribute__ ((hot))
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        if (argc != 4) {
+        if (argc != 3) {
             printf("tcctd (tccServiceID) (bundle_path)\n");
             return 0;
         }
@@ -23,6 +20,8 @@ int main(int argc, const char * argv[]) {
         CFStringRef appPath = CFStringCreateWithCString(kCFAllocatorSystemDefault, argv[2], kCFStringEncodingUTF8);
         
         TCCAccessSetForPath(tccService, appPath, 0x0);
+        
+        printf("ok\n");
     }
     return 0;
 }

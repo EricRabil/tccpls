@@ -15,7 +15,7 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "1D80756C2564CB5C00F2CADC"
-                     BuildableName = "TCCThisDick"
+                     BuildableName = "tcctd"
                      BlueprintName = "TCCThisDick"
                      ReferencedContainer = "container:TCCThisDick.xcodeproj">
                   </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D80756C2564CB5C00F2CADC"
-               BuildableName = "TCCThisDick"
+               BuildableName = "tcctd"
                BlueprintName = "TCCThisDick"
                ReferencedContainer = "container:TCCThisDick.xcodeproj">
             </BuildableReference>
@@ -63,7 +63,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D80756C2564CB5C00F2CADC"
-            BuildableName = "TCCThisDick"
+            BuildableName = "tcctd"
             BlueprintName = "TCCThisDick"
             ReferencedContainer = "container:TCCThisDick.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D80756C2564CB5C00F2CADC"
-            BuildableName = "TCCThisDick"
+            BuildableName = "tcctd"
             BlueprintName = "TCCThisDick"
             ReferencedContainer = "container:TCCThisDick.xcodeproj">
          </BuildableReference>
