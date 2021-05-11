@@ -1,7 +1,5 @@
 # TCCThisDick
-Are you a macOS enthusiast? Do you like to live dangerously with SIP and AMFI disabled? No? [Bye!](https://upload.wikimedia.org/wikipedia/commons/d/d4/Human_fart.wav)
-
-If you do run your Mac in this mode for prolonged periods of time, you may have noticed that there are no more privacy prompts for apps, and new apps simply cannot use privacy-protected APIs.
+If you do run your Mac with SIP disabled for prolonged periods of time, you may have noticed that there are no more privacy prompts for apps, and new apps simply cannot use privacy-protected APIs.
 
 This project is a small CLI tool for manually adding an app to a given privacy section.
 
