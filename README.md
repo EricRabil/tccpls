@@ -1,3 +1,6 @@
+# Archived
+I discovered https://github.com/jslegendre/tccplus which is better
+
 # TCCThisDick
 If you do run your Mac with SIP disabled for prolonged periods of time, you may have noticed that there are no more privacy prompts for apps, and new apps simply cannot use privacy-protected APIs.
 
